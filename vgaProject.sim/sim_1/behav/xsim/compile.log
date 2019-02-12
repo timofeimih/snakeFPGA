@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/timofei/vgaProject/vgaProject.srcs/sources_1/imports/new/vga800x600.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module vga800x600
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/timofei/vgaProject/vgaProject.srcs/sources_1/imports/new/main.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module main
